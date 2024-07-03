@@ -1,6 +1,6 @@
 # Via blok files
 
-So we at Boardsource do alot of assemblies and so we need to flas alot of keyboards. To make it easy we have pre compiled all of the popular ones and I thought why not make a gh repo for them.
+So we at Boardsource do alot of assemblies and so we need to flash alot of keyboards. To make it easy we have pre-compiled all of the popular ones and I thought why not make a gh repo for them, enjoy feel free to pr. 
 
 | keyboard name | file type            | donwload link |
 |---------------|----------------------|---------------|
