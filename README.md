@@ -27,7 +27,7 @@ If you've compiled a working `.uf2` for an RP2040 keyboard, especially with VIA 
 
 | Keyboard Name                                                             | File Type     | Download link                                                                                                          |
 | ------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Corne SMT / Unicorne ](https://boardsource.xyz/products/unicorne)        | VIA .UF2      | [Download](https://raw.githubusercontent.com/boardsource/via_files/main/via/boardsource_corne_SMT_via.uf2)             |
+| [Corne SMT / Unicorne ](https://boardsource.xyz/products/unicorne)        | VIA .UF2      | [Download](https://raw.githubusercontent.com/boardsource/via_files/main/via/boardsource_corne_smt_via.uf2)             |
 | [Corne Kit (DIY)](https://boardsource.xyz/products/corne)                       | Blok VIA .UF2 | [Download](https://raw.githubusercontent.com/boardsource/via_files/main/via/crkbd_rev1_via_blok.uf2)                   |
 | [Lily58 SMT / Lily Pad](https://boardsource.xyz/products/lily-pad)            | VIA .UF2      | [Download](https://raw.githubusercontent.com/boardsource/via_files/main/via/lily58_SMT_via.uf2)                        |
 | [Lily58 Kit (DIY)](https://boardsource.xyz/products/lily58)                     | Blok VIA .UF2 | [Download](https://raw.githubusercontent.com/boardsource/via_files/main/via/boardsource_lily58_avr_via_blok.uf2)       |
